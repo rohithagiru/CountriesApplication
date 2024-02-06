@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountriesApplication</string>
+    <string name="success_Message">Countries Data</string>
+    <string name="error_message">Unable to display the data at the moment.</string>
+</resources>
